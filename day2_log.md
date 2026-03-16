@@ -34,3 +34,19 @@ Today I started learning how to use the command line and Git more confidently.
 
 
 
+cd
+
+notepad ''  ''
+
+mkdir
+
+rmdir
+
+git status
+
+git log --oneline
+
+git push
+
+git diff
+
