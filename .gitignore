@@ -9,3 +9,37 @@ venv/
 # IDE 配置目录（PyCharm 和 VS Code）
 .idea/
 .vscode/
+
+#python cache
+_pycache_/
+*pyc
+
+#Logs
+*.log
+
+#Environment files
+.env
+.venv/
+
+#Jupyter
+.ipynb_checkpoints/
+
+#VS Code
+.vscode/
+
+#os files
+.Ds_Store
+Thumbs.db
+
+
+
+
+
+
+
+
+
+
+
+
+
