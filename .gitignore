@@ -1,0 +1,11 @@
+# Python 编译产物：字节码缓存和单个 .pyc 文件
+__pycache__/
+*.pyc
+
+# Python 虚拟环境目录（不同工具可能生成 .venv 或 venv）
+.venv/
+venv/
+
+# IDE 配置目录（PyCharm 和 VS Code）
+.idea/
+.vscode/
